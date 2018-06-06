@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Single Screen</string>
+    <string name="company_name">Udacity</string>
+    <string name="company_tag">Be in demand.</string>
+    <string name="company_about">About Us</string>
+    <string name="company_team">Our team</string>
+    <string name="company_contact">Contact Us</string>
+    <string name="company_about_txt">Udacity began as an experiment in online learning, when Stanford instructors Sebastian Thrun and Peter Norvig elected to offer their "Introduction to Artificial Intelligence" course online to anyone, for free. Over 160,000 students in more than 190 countries enrolled. The potential to educate at a global scale was awe-inspiring, and Udacity was founded to pursue a mission to democratize education.</string>
+    <string name="address">2465 Latham St\n Mountain View, CA 94043</string>
+    <string name="phone">650-555-5555</string>
+    <string name="website">www.udacity.com</string>
+
+
+    <string name="categoryNN">Neural Networks Foundation</string>
+    <string name="categoryDD">Data Scientist Foundation</string>
+    <string name="categoryAN">Android Foundation</string>
+    <string name="categoryFSD">Web Development</string>
+    <string name="categoryROBO">Robotics</string>
+
+</resources>
