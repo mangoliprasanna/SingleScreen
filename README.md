@@ -30,5 +30,6 @@ The APP contain the basic information like Address, Phone, Website, Popular Cour
           * ImageView
           * TextView
      
-## Screenshots
+## Screenshot
+  Note : Font may be different in your version of app.
   ![alt text](https://raw.githubusercontent.com/mangoliprasanna/SingleScreen/master/screen.png "App Screenshot")
